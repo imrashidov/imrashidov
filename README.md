@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelance<br>🌱 I’m currently learning React<br>💬 Ask me about anything<br><br>
+🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
