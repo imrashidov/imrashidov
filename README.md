@@ -1,10 +1,73 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frashidov) 
+# Hi, I'm Farid Rashidov 🥷
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan**, with over 2 years of experience in building modern, scalable web applications. I specialize in using **Next.js**, **JavaScript**, and **TypeScript** to create dynamic, responsive websites.
+
+# 🎯 Projects 
+
+### 🔥 **[Baku Flames - International Festival of Creativity and Effectiveness](https://bakuflames.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **Security**: Protected by **reCAPTCHA v3** to prevent spam and bots.
+- **User Authentication**: Users can register, log in, and manage profiles.
+- **Ticket Purchase**: Secure ticket payment integration.
+- **Entry Submission**: Users can submit entries for festival participation.
+- **SEO & Performance**: Optimized for fast access and search engine visibility.
+- **Analytics**: Integrated **Google Analytics** and **Facebook Pixel** for tracking.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imrashidov&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💄 **[Bahar Store](https://baharstore.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **User Authentication**: Users can register, log in, and manage profiles.
+- **Purchase System**: Secure product payment integration.
+- **Wishlist & Cart**: Dynamic cart and wishlist with real-time updates.
+- **Multi-language**: Available in **Azerbaijani** and **Russian**.
+- **SEO & Performance**: Optimized for faster loading and better search rankings.
+
+---
+
+### ▶️ **[Play10](https://play10.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **Landing Page**: Visually stunning with smooth scrolling effects.
+- **Multi-language**: Available in **Azerbaijani**, **English**, and **Russian** via **Next-Intl**.
+- **Animations**: **GSAP**-powered animations for interactive elements.
+- **Responsive Design**: Fully optimized for mobile and tablet views.
+
+---
+
+### 🛤️ **[IB Group](https://ibgroup.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **Corporate Website**: Developed a professional website showcasing the services and values of IB Group.
+- **Multi-language**: Available in **Azerbaijani**, **English**, and **Russian**.
+- **SEO & Performance**: Applied SEO best practices for better ranking and optimized loading times.
+- **Responsive Design**: Fully responsive for mobile, tablet, and desktop views.
+- **Contact Form**: Integrated a contact form for inquiries and lead generation.
+
+---
+
+# 🤹🏻‍♂️ Skills & Technologies
+
+#### Programming Languages
+- **JavaScript**, **TypeScript**, **Python**
+
+#### Markup & Styling
+- **HTML5**, **CSS3**, **Sass**
+
+#### Frameworks & Libraries
+- **Next.js 15**, **next-sitemap**, **next-intl**, **i18n**, **React**, **React Query**, **React-Router**, **React-Helmet**, **Redux**, **Redux Toolkit**, **Node.js**, **Express.js**, **formik**, **zod**, **React Hook Form**, **GSAP**, **Framer Motion**, **Tailwind CSS**, **Material UI**, **Bootstrap**, **Ant Design**, **shadcn**, **Next UI**, **React-Select**, **Swiper**, **Splide**, **js-cookie**, **Axios**, **Auth.js**, **React-Native**, **Expo**.
+
+#### Database & ORM
+- **MySQL**, **PostgreSQL**, **MongoDB**, **Prisma**
+
+#### Hosting & SaaS
+- **GitHub Pages**, **Netlify**, **Vercel**, **Heroku**, **Render**, **Surge**
+
+#### Tools
+- **VS Code**, **Postman**, **Notion**, **ESLint**, **SonarLint**
+
+
+# Contact
+
+- **Email:** [frashidovl@gmail.com](mailto:frashidov@gmail.com)
+- **LinkedIn:** [Farid Rashidov](https://www.linkedin.com/in/frashidov/)
+
+
