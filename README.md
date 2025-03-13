@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 - **VS Code**, **Postman**, **Notion**, **ESLint**, **SonarLint**
 
 
-# Contact
+# 📩 Contact
 
 - **Email:** [frashidovl@gmail.com](mailto:frashidov@gmail.com)
 - **LinkedIn:** [Farid Rashidov](https://www.linkedin.com/in/frashidov/)
