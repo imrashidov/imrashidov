@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 # 📩 Contact
 
-- **Email:** [frashidovl@gmail.com](mailto:frashidov@gmail.com)
+- **Email:** [frashidov@gmail.com](mailto:frashidov@gmail.com)
 - **LinkedIn:** [Farid Rashidov](https://www.linkedin.com/in/frashidov/)
 
 
