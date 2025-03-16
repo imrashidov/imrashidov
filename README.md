@@ -44,6 +44,13 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
+### 🐦‍⬛ **[Qarğa Dili (Crow Language) Generator](https://qargadili.vercel.app)**
+- **Frontend**: Built with **Next.js 15** (App Router), **TypeScript**, **Sass** and **Tailwind CSS**.
+- **Text Convertor**: Automatically translates any input text into Crow Language.
+- **Progressive Web App (PWA)**: Fully functional as a PWA for offline support.
+- **User-Friendly Interface**: Simple and intuitive design for easy use.
+- **Responsive Design**: Fully responsive for mobile, tablet, and desktop views.
+
 # 🤹🏻‍♂️ Skills & Technologies
 
 #### Programming Languages
