@@ -77,7 +77,5 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 - **Email:** [frashidov@gmail.com](mailto:frashidov@gmail.com)
 - **LinkedIn:** [Farid Rashidov](https://www.linkedin.com/in/frashidov/)
 
-![imrashidov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imrashidov&theme=dark&hide_border=true)
-![imrashidov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrashidov&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
