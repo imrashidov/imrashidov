@@ -34,6 +34,29 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
+### 🛞 **[Tyre Portal](https://tyreportal.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **User Authentication**: Users can register, log in, and manage profiles.
+- **Purchase System**: Secure product payment integration.
+- **Wishlist & Cart**: Dynamic cart and wishlist with real-time updates.
+- **Multi-language**: Available in **Azerbaijani** and **Russian**.
+- **SEO & Performance**: Optimized for faster loading and better search rankings.
+- **Google Recaptcha Integration**: reCAPTCHA added to prevent spam and ensure secure form submissions.
+- **Smart Search System**:  Intelligent search functionality implemented for quickly finding tires and batteries based on size, brand, and other filters.
+
+---
+
+### 🌸 **[Mia Parfum](https://miaparfum.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **User Authentication**: Users can register, log in, and manage profiles.
+- **Purchase System**: Secure product payment integration.
+- **Wishlist & Cart**: Dynamic cart and wishlist with real-time updates.
+- **Multi-language**: Available in **Azerbaijani** and **Russian**.
+- **SEO & Performance**: Optimized for faster loading and better search rankings.
+- **Google Recaptcha Integration**: reCAPTCHA added to prevent spam and ensure secure form submissions.
+
+---
+
 ### 🛤️ **[IB Group](https://ibgroup.az)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **Corporate Website**: Developed a professional website showcasing the services and values of IB Group.
