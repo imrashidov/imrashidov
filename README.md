@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
-### 🏠 **[Mardi Mekan (Pasha Real Estate)(https://mardimekan.az)]**
+### 🏠 **[Mardi Mekan (Pasha Real Estate)](https://mardimekan.az)**
 - **Frontend**: Built with Next.js 15 (App Router) and Sass for modular styling.
 - **Interactive UI**: Implemented advanced image mapping for dynamic product
 interactions.
