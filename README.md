@@ -42,6 +42,19 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
+### 🏠 **[Mardi Mekan (Pasha Real Estate)](https://mardimekan.az)]**
+- **Frontend**: Built with Next.js 15 (App Router) and Sass for modular styling.
+- **Interactive UI**: Implemented advanced image mapping for dynamic product
+interactions.
+- **Animations**: Used Framer Motion for smooth transitions and micro-interactions.
+- **Preloader**: Designed and developed a custom interactive preloader for better
+UX.
+- **Performance & SEO**: Optimized for speed, search visibility, and accessibility.
+- **Image Mapping**: Interactive house image mapping for exploring property layouts.
+- **Real Estate Filtering**: Advanced property filtering system with multiple criteria
+
+---
+
 ### 🛞 **[Tyre Portal](https://tyreportal.az)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **User Authentication**: Users can register, log in, and manage profiles.
