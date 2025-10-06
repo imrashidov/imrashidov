@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 # 🎯 Projects 
 
-### ⚽️ **[Neftchi PFk]** (Ongoing)
+### ⚽️ **[Neftchi PFk](https://neftchi.az)** (Ongoing)
 
 ---
 
-### 🌐 **[IDEA - International Dialogue for Environmental Action]**
+### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)**
 
 ---
 
