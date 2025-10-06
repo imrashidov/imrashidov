@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
-### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)**
+### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)** (Ongoing)
 
 ---
 
