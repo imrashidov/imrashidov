@@ -55,6 +55,15 @@ UX.
 
 ---
 
+### 🌊 **[Lighthouse II (Sea Breeze Resort)](https://2.lighthouse.az)**
+- **Interactive UI**: Implemented advanced image mapping for dynamic product
+interactions.
+- **Performance & SEO**: Optimized for speed, search visibility, and accessibility.
+- **Image Mapping**: Interactive house image mapping for exploring property layouts.
+- **Real Estate Filtering**: Advanced property filtering system with multiple criteria.
+
+---
+
 ### 🛞 **[Tyre Portal](https://tyreportal.az)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **User Authentication**: Users can register, log in, and manage profiles.
