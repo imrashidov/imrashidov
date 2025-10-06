@@ -4,6 +4,14 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 # 🎯 Projects 
 
+### ⚽️ **[Neftchi PFk]** (Ongoing)
+
+---
+
+### 🌐 **[IDEA - International Dialogue for Environmental Action]**
+
+---
+
 ### 🔥 **[Baku Flames - International Festival of Creativity and Effectiveness](https://bakuflames.az)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **Security**: Protected by **reCAPTCHA v3** to prevent spam and bots.
