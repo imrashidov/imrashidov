@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 # 🎯 Projects 
 
-### ⚽️ **[Neftchi PFk](https://neftchi.az)** (Ongoing)
+### ⚽️ **[Neftchi PFK](https://neftchi.az)** (Ongoing)
 
 ---
 
