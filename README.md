@@ -99,7 +99,7 @@ interactions.
 
 ### ⚡ **[please-fast-next](https://www.npmjs.com/package/please-fast-next)**
 - **Next.js 15 Starter**: Creates a ready-to-use Next.js App Router structure with clean routing and layouts.
-- **Customization Options**: Choose JavaScript or TypeScript, Tailwind CSS, Sass (SCSS), Axios, i18n, NProgress və daha çoxu.
+- **Customization Options**: Choose JavaScript or TypeScript, Tailwind CSS, Sass (SCSS), Axios, i18n, NProgress and more.
 - **Optimized Project Structure**: Generates a scalable folder setup following best practices for real-world projects.
 - **Developer Experience**: Interactive prompts and simplified config for a smooth starting workflow.
 - **Lightweight & Fast**: Instantly scaffolds a boilerplate without unnecessary packages or bloat.
