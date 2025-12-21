@@ -9,6 +9,21 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 ---
 
 ### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)** (Ongoing)
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **UI/UX Design**: Clean, informative, and visually engaging interface.
+- **National Parks**:
+  - Dedicated sections showcasing national parks
+  - Detailed park pages with descriptions and visuals
+- **Interactive Map**:
+  - Map view displaying national parks across the country
+  - Location-based visualization and exploration
+- **Projects**:
+  - Environmental projects and initiatives presented with structured layouts
+- **Ecological Calendar**:
+  - Calendar highlighting environmental days, events, and campaigns
+- **User System**: Users can browse content and interact with campaigns.
+- **SEO & Performance**: Optimized for fast loading, SEO-friendly routing, and high performance.
+- **Analytics**: Integrated **Google Analytics** and **Facebook Pixel** for tracking and insights.
 
 ---
 
