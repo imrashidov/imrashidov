@@ -23,6 +23,20 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
+### 🎓 **[Marka Education](https://marka.edu.az)**
+- **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
+- **UI/UX Design**: UI-focused, engaging, and modern interface designed by **Rizvan Baghirli** and **Murad Asadov**.
+- **Free Lessons (YouTube-style)**:
+  - Dedicated section for free video lessons similar to a YouTube experience
+  - Structured lesson lists, previews, and categories
+- **Student Reviews**:
+  - Real student testimonials and feedback
+  - Clean, readable, and filterable review layouts
+- **Entry Submission**: Users can submit applications and entries for courses or programs.
+- **SEO & Performance**: Optimized for fast loading, SEO-friendly routing, and high performance.
+
+---
+
 ### 💄 **[Bahar Store](https://baharstore.az)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **User Authentication**: Users can register, log in, and manage profiles.
