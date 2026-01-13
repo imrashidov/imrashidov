@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a frontend developer from **Baku, Azerbaijan*
 
 ---
 
-### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)** (Ongoing)
+### 🌐 **[IDEA - International Dialogue for Environmental Action](https://ideacampaign.org)**
 - **Frontend**: Built with **Next.js 15** (App Router) and **Sass**.
 - **UI/UX Design**: Clean, informative, and visually engaging interface.
 - **National Parks**:
